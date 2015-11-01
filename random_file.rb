@@ -18,4 +18,4 @@ h.merge!(item: 1)
 
 h.merge!({item: 1})
 
-h.merge!({})ads
+h.merge!({})
