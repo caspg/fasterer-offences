@@ -19,3 +19,13 @@ h.merge!(item: 1)
 h.merge!({item: 1})
 
 h.merge!({})
+
+
+'abcd abcd'.gsub(' ', '')
+
+petar = 'petar'
+
+petar.gsub('r', 'k')
+petar.gsub(/abba/, 'k')
+
+petar.gsub(/aab\//, 'k')
