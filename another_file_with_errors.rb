@@ -1,1 +1,1 @@
-undefined_variable_or_method
+undefined_variable_or_method.map
